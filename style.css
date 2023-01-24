@@ -1,0 +1,41 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  color:#6c6b6b;
+}
+
+ header {
+   padding:20px;
+   height:400px;
+   width:100%;
+   background-image:url(img/mv.jpg);
+   background-size:cover;
+   background-position:bottom center;
+
+ }
+
+main{
+  padding-top:20px;
+  width:840px;
+  margin:0 auto;
+}
+
+.blog-item {
+
+  pading:30px auto;
+  border-bottom:1px solid #f5f5f5;
+
+}
+
+.blog-img {
+  margin-top:30px;
+}
+
+.blank{
+  margin-bottom: 30px;
+}
+
+footer {
+  height:50px;
+}
